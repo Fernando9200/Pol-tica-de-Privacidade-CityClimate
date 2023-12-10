@@ -4,31 +4,31 @@ import './App.css';
 function App() {
   return (
     <div className="App" align="center" id="container">
-      <h1>Política de Privacidade - CityClimate</h1>
-      <p align="justify">A sua privacidade é importante para nós. É política do CityClimate respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site CityClimate, e outros sites que possuímos e operamos.
+      <h1>Privacy Policy - CityClimate</h1>
+      <p align="justify">Your privacy is important to us. It is CityClimate's policy to respect your privacy regarding any information we may collect on the CityClimate website, and other sites we own and operate.
 
-Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado.
+We only ask for personal information when we truly need it to provide a service to you. We do it through fair and legal means, with your knowledge and consent. We also inform you why we are collecting it and how it will be used.
 
-Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis ​​para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
+We only retain the information collected for as long as necessary to provide the requested service. When we store data, we protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification.
 
-Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
+We do not share personally identifiable information publicly or with third parties, except when required by law.
 
-O nosso site pode ter links para sites externos que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade.
+Our site may have links to external sites that are not operated by us. Be aware that we have no control over the content and practices of these sites and cannot accept responsibility for their respective privacy policies.
 
-Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.
+You are free to refuse our request for personal information, understanding that we may not be able to provide some of the services you desire.
 
-O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.</p>
-<h2>Compromisso do Usuário</h2>
-<p align="justify">O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o CityClimate oferece no site e com caráter enunciativo, mas não limitativo: </p>
+Your continued use of our site will be considered as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, contact us.</p>
+<h2>User Commitment</h2>
+<p align="justify">The user commits to making appropriate use of the contents and information that CityClimate offers on the site and with an illustrative but not limited character: </p>
 <ul align="justify">
-<li>Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;</li>
-<li>Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, Onde ver a Bola ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;</li>
-<li>Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do CityClimate, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.</li>
+<li>Not to engage in activities that are illegal or contrary to good faith and public order;</li>
+<li>Not to disseminate propaganda or content of a racist, xenophobic nature, Where to see the Ball or chance, any type of illegal pornography, advocacy of terrorism, or against human rights;</li>
+<li>Not to cause damage to the physical systems (hardware) and logical systems (software) of CityClimate, its suppliers or third parties, to introduce or spread computer viruses or any other hardware or software systems that are capable of causing the aforementioned damages.</li>
 </ul>
-<h2>Compromisso do Usuário</h2>
-<p align="justify">Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.
+<h2>User Commitment</h2>
+<p align="justify">We hope this is clear and, as previously mentioned, if there's something you're not sure whether you need or not, it's usually safer to leave cookies enabled, in case you interact with one of the features you use on our site.
 
-Esta política é efetiva a partir de Abril/2022.</p>
+This policy is effective as of December/2023.</p>
     </div>
   );
 }
